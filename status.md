@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Cole Faurl
 
 #### Your section leader's name
 
-TODO
+Xinwen Zhang
 
 #### Project title
 
-TODO
+Stonks
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have started coding the base of the project, as I will be changing the stonks project and submitting it as my final project.
 
 #### What have you not done for your project yet?
 
-TODO
+I have still have to finish the actual base of the project before I add in file reading where it shows you information of other stocks.
 
 #### What problems, if any, have you encountered?
 
-TODO
+None.
